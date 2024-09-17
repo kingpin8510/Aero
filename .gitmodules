@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/kingpin8510/Aerob.git
+[submodule "front"]
+	path = front
+	url = https://github.com/kingpin8510/Aerof.git
